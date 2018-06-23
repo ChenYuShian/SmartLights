@@ -1,0 +1,1866 @@
+Archive member included to satisfy reference by file (symbol)
+
+obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/gpio/dw_gpio_obj.o
+                              obj_emsk_22/gnu_arcem7d/application/./emsk_gpio.o (gpio_get_dev)
+obj_emsk_22/gnu_arcem7d/device/ip/designware/gpio/dw_gpio.o
+                              obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/gpio/dw_gpio_obj.o (dw_gpio_open)
+obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_init.o
+                              obj_emsk_22/gnu_arcem7d/board/board.o (board_init)
+obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_timer.o
+                              obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_init.o (emsk_timer_init)
+obj_emsk_22/gnu_arcem7d/board/emsk/drivers/mux/mux.o
+                              obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_init.o (io_mux_init)
+obj_emsk_22/gnu_arcem7d/arc/arc_timer.o
+                              obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_timer.o (timer_present)
+obj_emsk_22/gnu_arcem7d/arc/arc_cache.o
+                              obj_emsk_22/gnu_arcem7d/arc/startup/arc_startup.o (arc_cache_init)
+obj_emsk_22/gnu_arcem7d/arc/arc_exception.o
+                              obj_emsk_22/gnu_arcem7d/arc/startup/arc_startup.o (exc_int_init)
+obj_emsk_22/gnu_arcem7d/arc/arc_exc_asm.o
+                              obj_emsk_22/gnu_arcem7d/arc/arc_exception.o (exc_entry_cpu)
+obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_gpio.o
+                              obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_init.o (emsk_gpio_init)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-printf.o)
+                              obj_emsk_22/gnu_arcem7d/application/./emsk_gpio.o (printf)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-puts.o)
+                              obj_emsk_22/gnu_arcem7d/application/./emsk_gpio.o (puts)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strlen-bs-norm.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-puts.o) (strlen)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-vfprintf.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-printf.o) (_vfprintf_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wsetup.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-vfprintf.o) (__swsetup_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-dtoa.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-vfprintf.o) (_dtoa_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fflush.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-vfprintf.o) (_fflush_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-findfp.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-puts.o) (__sinit)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-freer.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wsetup.o) (_free_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fvwrite.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-puts.o) (__sfvwrite_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fwalk.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-findfp.o) (_fwalk)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-impure.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fflush.o) (_global_impure_ptr)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-localeconv.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-vfprintf.o) (_localeconv_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-makebuf.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wsetup.o) (__smakebuf_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mallocr.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-findfp.o) (_malloc_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memchr.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-vfprintf.o) (memchr)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memcpy-bs.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-dtoa.o) (memcpy)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memmove.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fvwrite.o) (memmove)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memset-bs.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-findfp.o) (memset)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mlock.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-freer.o) (__malloc_lock)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mprec.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-dtoa.o) (_Balloc)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-reallocr.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fvwrite.o) (_realloc_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sbrkr.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-freer.o) (_sbrk_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-stdio.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-findfp.o) (__sread)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-vfiprintf.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-vfprintf.o) (__sprint_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-writer.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-stdio.o) (_write_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-callocr.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mprec.o) (_calloc_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-closer.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-stdio.o) (_close_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fclose.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-findfp.o) (_fclose_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fputwc.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-vfiprintf.o) (_fputwc_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fstatr.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-makebuf.o) (_fstat_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-isattyr.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-makebuf.o) (_isatty_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-locale.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fputwc.o) (__locale_mb_cur_max)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-lseekr.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-stdio.o) (_lseek_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mbtowc_r.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-locale.o) (__ascii_mbtowc)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-readr.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-stdio.o) (_read_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-reent.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sbrkr.o) (errno)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strcmp.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-locale.o) (strcmp)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wbuf.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fputwc.o) (__swbuf_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wcrtomb.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fputwc.o) (_wcrtomb_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wctomb_r.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-locale.o) (__ascii_wctomb)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-ctype_.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-locale.o) (_ctype_)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(_divdi3.o)
+                              obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_timer.o (__divdi3)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(_udivdi3.o)
+                              obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_timer.o (__udivdi3)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(_umoddi3.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-vfprintf.o) (__umoddi3)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-dtoa.o) (__adddf3)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o) (__make_fp)
+obj_emsk_22/gnu_arcem7d/library/clib/embarc_sbrk.o
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sbrkr.o) (_sbrk)
+obj_emsk_22/gnu_arcem7d/library/clib/embarc_syscalls.o
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-closer.o) (_close)
+obj_emsk_22/gnu_arcem7d/library/clib/embarc_target.o
+                              obj_emsk_22/gnu_arcem7d/library/clib/embarc_syscalls.o (get_build_timedate)
+obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/uart/dw_uart_obj.o
+                              obj_emsk_22/gnu_arcem7d/library/clib/embarc_syscalls.o (uart_get_dev)
+obj_emsk_22/gnu_arcem7d/device/ip/designware/uart/dw_uart.o
+                              obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/uart/dw_uart_obj.o (dw_uart_open)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-errno.o)
+                              obj_emsk_22/gnu_arcem7d/library/clib/embarc_sbrk.o (__errno)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memcmp-bs-norm.o)
+                              obj_emsk_22/gnu_arcem7d/library/clib/embarc_syscalls.o (memcmp)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mktime.o)
+                              obj_emsk_22/gnu_arcem7d/library/clib/embarc_target.o (mktime)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sscanf.o)
+                              obj_emsk_22/gnu_arcem7d/library/clib/embarc_target.o (sscanf)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strncmp.o)
+                              obj_emsk_22/gnu_arcem7d/library/clib/embarc_syscalls.o (strncmp)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfscanf.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sscanf.o) (__ssvfscanf_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzcalc_limits.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mktime.o) (__tzcalc_limits)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzlock.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mktime.o) (__tz_lock)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzset.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mktime.o) (_tzset_unlocked)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzset_r.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzset.o) (_tzset_unlocked_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzvars.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzset_r.o) (_timezone)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-div.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mktime.o) (div)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-getenv_r.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzset_r.o) (_getenv_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-gettzinfo.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mktime.o) (__gettzinfo)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-iswspace.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfscanf.o) (iswspace)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-malloc.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzset_r.o) (free)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mbrtowc.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfscanf.o) (_mbrtowc_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-month_lengths.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzcalc_limits.o) (__month_lengths)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sccl.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfscanf.o) (__sccl)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sf_nan.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfscanf.o) (nanf)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-siscanf.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzset_r.o) (siscanf)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sprintf.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfscanf.o) (sprintf)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strcpy-bs.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzset_r.o) (strcpy)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtod.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfscanf.o) (_strtod_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtol.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfscanf.o) (_strtol_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtoll.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfscanf.o) (_strtoll_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtoul.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfscanf.o) (_strtoul_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtoull.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfscanf.o) (_strtoull_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfiscanf.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfscanf.o) (_sungetc_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfprintf.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sprintf.o) (_svfprintf_r)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-ungetc.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfiscanf.o) (__submore)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-environ.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-getenv_r.o) (environ)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-envlock.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-getenv_r.o) (__env_lock)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-gdtoa-gethex.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtod.o) (__gethex)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-gdtoa-hexnan.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtod.o) (__match)
+c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfiprintf.o)
+                              c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfprintf.o) (__ssprint_r)
+
+Allocating common symbols
+Common symbol       size              file
+
+dw_uart_0           0x5c              obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/uart/dw_uart_obj.o
+stdio_uart_obj      0x4               obj_emsk_22/gnu_arcem7d/library/clib/embarc_syscalls.o
+exc_nest_count      0x4               obj_emsk_22/gnu_arcem7d/arc/arc_exception.o
+dw_uart_2           0x5c              obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/uart/dw_uart_obj.o
+dw_uart_1           0x5c              obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/uart/dw_uart_obj.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ICCM             0x00000000         0x00040000
+DCCM             0x80000000         0x00020000
+EXT_RAM          0x10000000         0x08000000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libm.a
+
+.init           0x10000000      0x1b0
+                0x10000000                _f_init = .
+ *(.init_vector)
+ .init_vector   0x10000000        0x4 obj_emsk_22/gnu_arcem7d/arc/startup/arc_startup.o
+ *(.init_bootstrap)
+ .init_bootstrap
+                0x10000004      0x1ac obj_emsk_22/gnu_arcem7d/arc/startup/arc_startup.o
+                0x10000004                _arc_reset
+                0x10000004                _start
+                0x1000019c                _exit_loop
+                0x1000019c                _exit_halt
+                0x100001b0                _e_init = .
+
+.vector         0x10000400      0x400
+                0x10000400                _f_vector = .
+ *(.vector)
+ .vector        0x10000400      0x400 obj_emsk_22/gnu_arcem7d/arc/arc_exception.o
+                0x10000400                exc_entry_table
+                0x10000800                _e_vector = .
+
+.text           0x10000800    0x136c0
+                0x10000800                _f_text = .
+ *(.text .text.* .gnu.linkonce.t.*)
+ .text          0x10000800      0x110 obj_emsk_22/gnu_arcem7d/application/./emsk_gpio.o
+                0x10000800                emsk_ledtest_init
+                0x1000085c                emsk_button
+                0x100008b4                button_readtest
+                0x100008f4                led_writetest
+ .text.startup  0x10000910      0x124 obj_emsk_22/gnu_arcem7d/application/./emsk_gpio.o
+                0x10000910                main
+ .text          0x10000a34       0x34 obj_emsk_22/gnu_arcem7d/board/board.o
+                0x10000a34                board_main
+ .text          0x10000a68       0xbc obj_emsk_22/gnu_arcem7d/arc/startup/arc_cxx_support.o
+                0x10000a68                __do_global_ctors_aux
+                0x10000a9c                __do_global_dtors_aux
+                0x10000ad4                __cxa_atexit
+                0x10000ad8                __do_init_array_aux
+                0x10000b20                __cxa_pure_virtual
+ .text          0x10000b24        0x0 obj_emsk_22/gnu_arcem7d/arc/startup/arc_startup.o
+ .text          0x10000b24      0x3f4 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/gpio/dw_gpio_obj.o
+                0x10000c74                dw_gpio_all_install
+                0x10000ec4                gpio_get_dev
+ .text          0x10000f18      0x5f0 obj_emsk_22/gnu_arcem7d/device/ip/designware/gpio/dw_gpio.o
+                0x10000f64                dw_gpio_open
+                0x1000105c                dw_gpio_close
+                0x10001114                dw_gpio_read
+                0x10001180                dw_gpio_write
+                0x100011c4                dw_gpio_control
+                0x100013d0                dw_gpio_isr_handler
+                0x10001470                dw_gpio_bit_isr_handler
+ .text          0x10001508       0x14 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_init.o
+                0x10001508                board_init
+ .text          0x1000151c      0x250 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_timer.o
+                0x1000151c                board_timer_update
+                0x100015bc                emsk_timer_init
+                0x100015f4                board_get_hwticks
+                0x1000162c                board_get_cur_us
+                0x10001684                board_delay_ms
+ .text          0x1000176c      0x124 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/mux/mux.o
+                0x1000176c                set_pmod_mux
+                0x10001778                get_pmod_mux
+                0x10001784                set_spi_map
+                0x10001790                set_uart_map
+                0x1000179c                io_mikro_config
+                0x100017a4                io_arduino_config_spi
+                0x100017ac                io_arduino_config_uart
+                0x100017b4                io_arduino_config_i2c
+                0x100017bc                io_arduino_config_ad
+                0x100017c4                io_arduino_config_pwm
+                0x100017cc                io_arduino_config_gpio
+                0x100017d4                io_pmod_config
+                0x10001864                io_mux_init
+ .text          0x10001890      0x1ec obj_emsk_22/gnu_arcem7d/arc/arc_timer.o
+                0x10001890                timer_present
+                0x100018bc                timer_start
+                0x10001934                timer_stop
+                0x100019b0                timer_current
+                0x100019f8                timer_int_clear
+                0x10001a34                timer_init
+ .text          0x10001a7c      0x488 obj_emsk_22/gnu_arcem7d/arc/arc_cache.o
+                0x10001a7c                icache_invalidate_mlines
+                0x10001ae0                icache_lock_mlines
+                0x10001b58                icache_direct_write
+                0x10001b84                icache_direct_read
+                0x10001bb0                icache_indirect_read
+                0x10001be4                dcache_invalidate_mlines
+                0x10001c50                dcache_flush_mlines
+                0x10001cbc                dcache_lock_mlines
+                0x10001d38                dcache_direct_write
+                0x10001d64                dcache_direct_read
+                0x10001d90                dcache_indirect_read
+                0x10001dc4                arc_cache_init
+ .text          0x10001f04      0x368 obj_emsk_22/gnu_arcem7d/arc/arc_exception.o
+                0x10001f84                exc_int_init
+                0x10001ff0                exc_entry_install
+                0x10002060                exc_entry_get
+                0x10002074                exc_handler_install
+                0x1000208c                exc_handler_get
+                0x100020a0                int_disable
+                0x100020c4                int_enable
+                0x100020e8                int_enabled
+                0x10002104                int_ipm_get
+                0x10002114                int_ipm_set
+                0x10002140                int_pri_get
+                0x10002160                int_pri_set
+                0x10002194                int_secure_set
+                0x100021c4                int_probe
+                0x100021e0                int_sw_trigger
+                0x100021f8                int_level_config
+                0x10002218                cpu_lock
+                0x10002220                cpu_unlock
+                0x10002228                cpu_lock_save
+                0x10002230                cpu_unlock_restore
+                0x10002238                int_handler_install
+                0x10002254                int_handler_get
+ .text          0x1000226c      0x358 obj_emsk_22/gnu_arcem7d/arc/arc_exc_asm.o
+                0x1000226c                exc_entry_cpu
+                0x100023e0                exc_entry_int
+                0x10002488                exc_entry_firq
+ .text          0x100025c4      0x1cc obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_gpio.o
+                0x100025c4                emsk_led_init
+                0x10002628                emsk_button_init
+                0x10002670                emsk_switch_init
+                0x100026b8                emsk_gpio_init
+                0x100026c8                led_write
+                0x100026e4                led_toggle
+                0x100026f8                led_read
+                0x10002728                switch_read
+                0x1000275c                button_read
+ .text          0x10002790       0x60 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-printf.o)
+                0x10002790                _printf_r
+                0x100027bc                printf
+ .text          0x100027f0       0x84 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-puts.o)
+                0x100027f0                _puts_r
+                0x1000286c                puts
+ .text          0x10002874       0x88 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strlen-bs-norm.o)
+                0x10002874                strlen
+ .text          0x100028fc     0x1824 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-vfprintf.o)
+                0x100028fc                _vfprintf_r
+                0x10004078                vfprintf
+ .text          0x10004120       0xe8 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wsetup.o)
+                0x10004120                __swsetup_r
+ .text          0x10004208     0x1144 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-dtoa.o)
+                0x10004384                _dtoa_r
+ .text          0x1000534c      0x1e8 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fflush.o)
+                0x1000534c                __sflush_r
+                0x100054d0                _fflush_r
+                0x10005514                fflush
+ .text          0x10005534      0x290 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-findfp.o)
+                0x10005538                _cleanup_r
+                0x10005678                __sfmoreglue
+                0x100056c0                __sfp
+                0x1000577c                _cleanup
+                0x10005790                __sinit
+                0x1000579c                __sfp_lock_acquire
+                0x100057a0                __sfp_lock_release
+                0x100057a4                __sinit_lock_acquire
+                0x100057a8                __sinit_lock_release
+                0x100057ac                __fp_lock_all
+                0x100057b8                __fp_unlock_all
+ .text          0x100057c4      0x3c8 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-freer.o)
+                0x100057c4                _malloc_trim_r
+                0x100058a0                _free_r
+ .text          0x10005b8c      0x36c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fvwrite.o)
+                0x10005b8c                __sfvwrite_r
+ .text          0x10005ef8      0x10c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fwalk.o)
+                0x10005ef8                _fwalk
+                0x10005f78                _fwalk_reent
+ .text          0x10006004        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-impure.o)
+ .text          0x10006004       0x40 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-localeconv.o)
+                0x10006004                __localeconv_l
+                0x1000600c                _localeconv_r
+                0x10006028                localeconv
+ .text          0x10006044      0x144 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-makebuf.o)
+                0x10006044                __swhatbuf_r
+                0x100060d4                __smakebuf_r
+ .text          0x10006188      0x6a4 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mallocr.o)
+                0x10006188                _malloc_r
+ .text          0x1000682c       0xc8 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memchr.o)
+                0x1000682c                memchr
+ .text          0x100068f4       0x80 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memcpy-bs.o)
+                0x100068f4                memcpy
+ .text          0x10006974       0xf4 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memmove.o)
+                0x10006974                memmove
+ .text          0x10006a68       0x6c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memset-bs.o)
+                0x10006a68                memset
+                0x10006abc                __strncpy_bzero
+ .text          0x10006ad4        0x8 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mlock.o)
+                0x10006ad4                __malloc_lock
+                0x10006ad8                __malloc_unlock
+ .text          0x10006adc      0xbb8 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mprec.o)
+                0x10006adc                _Balloc
+                0x10006b50                _Bfree
+                0x10006b64                __multadd
+                0x10006c24                __s2b
+                0x10006ce0                __hi0bits
+                0x10006d28                __lo0bits
+                0x10006da0                __i2b
+                0x10006dc0                __multiply
+                0x10006f60                __pow5mult
+                0x10007034                __lshift
+                0x10007134                __mcmp
+                0x10007178                __mdiff
+                0x100072c8                __ulp
+                0x10007320                __b2d
+                0x10007408                __d2b
+                0x100074fc                __ratio
+                0x10007578                _mprec_log10
+                0x100075d0                __copybits
+                0x10007638                __any_on
+ .text          0x10007694      0x484 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-reallocr.o)
+                0x10007694                _realloc_r
+ .text          0x10007b18       0x38 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sbrkr.o)
+                0x10007b18                _sbrk_r
+ .text          0x10007b50       0xc8 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-stdio.o)
+                0x10007b50                __sread
+                0x10007b84                __seofread
+                0x10007b88                __swrite
+                0x10007bd8                __sseek
+                0x10007c10                __sclose
+ .text          0x10007c18      0xf08 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-vfiprintf.o)
+                0x10007cd8                __sprint_r
+                0x10007cec                _vfiprintf_r
+                0x10008a78                vfiprintf
+ .text          0x10008b20       0x40 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-writer.o)
+                0x10008b20                _write_r
+ .text          0x10008b60       0x8c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-callocr.o)
+                0x10008b60                _calloc_r
+ .text          0x10008bec       0x38 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-closer.o)
+                0x10008bec                _close_r
+ .text          0x10008c24       0xb0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fclose.o)
+                0x10008c24                _fclose_r
+                0x10008ccc                fclose
+ .text          0x10008cd4      0x138 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fputwc.o)
+                0x10008cd4                __fputwc
+                0x10008d9c                _fputwc_r
+                0x10008db8                fputwc
+ .text          0x10008e0c       0x3c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fstatr.o)
+                0x10008e0c                _fstat_r
+ .text          0x10008e48       0x38 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-isattyr.o)
+                0x10008e48                _isatty_r
+ .text          0x10008e80       0x9c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-locale.o)
+                0x10008e80                _setlocale_r
+                0x10008ed0                __locale_mb_cur_max
+                0x10008ef0                __locale_ctype_ptr_l
+                0x10008ef8                __locale_ctype_ptr
+                0x10008f10                setlocale
+ .text          0x10008f1c       0x40 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-lseekr.o)
+                0x10008f1c                _lseek_r
+ .text          0x10008f5c       0x68 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mbtowc_r.o)
+                0x10008f5c                _mbtowc_r
+                0x10008f7c                __ascii_mbtowc
+ .text          0x10008fc4       0x40 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-readr.o)
+                0x10008fc4                _read_r
+ .text          0x10009004       0xd0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-reent.o)
+                0x10009004                cleanup_glue
+                0x1000902c                _reclaim_reent
+ .text          0x100090d4       0x90 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strcmp.o)
+                0x100090d4                strcmp
+ .text          0x10009164       0xf0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wbuf.o)
+                0x10009164                __swbuf_r
+                0x10009248                __swbuf
+ .text          0x10009254       0xe8 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wcrtomb.o)
+                0x10009254                _wcrtomb_r
+                0x100092d4                wcrtomb
+ .text          0x1000933c       0x48 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wctomb_r.o)
+                0x1000933c                _wctomb_r
+                0x1000935c                __ascii_wctomb
+ .text          0x10009384        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-ctype_.o)
+ .text          0x10009384        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(_divdi3.o)
+ .text.__divdi3
+                0x10009384      0x3c8 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(_divdi3.o)
+                0x10009384                __divdi3
+ .text          0x1000974c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(_udivdi3.o)
+ .text.__udivdi3
+                0x1000974c      0x3ac c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(_udivdi3.o)
+                0x1000974c                __udivdi3
+ .text          0x10009af8        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(_umoddi3.o)
+ .text.__umoddi3
+                0x10009af8      0x358 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(_umoddi3.o)
+                0x10009af8                __umoddi3
+ .text          0x10009e50        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+ .text._fpadd_parts
+                0x10009e50      0x2fc c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+ .text.__pack_d
+                0x1000a14c      0x210 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+                0x1000a14c                __pack_d
+ .text.__unpack_d
+                0x1000a35c       0xf0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+                0x1000a35c                __unpack_d
+ .text.__adddf3
+                0x1000a44c       0x34 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+                0x1000a44c                __adddf3
+ .text.__subdf3
+                0x1000a480       0x3c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+                0x1000a480                __subdf3
+ .text.__muldf3
+                0x1000a4bc      0x2d0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+                0x1000a4bc                __muldf3
+ .text.__divdf3
+                0x1000a78c      0x1a4 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+                0x1000a78c                __divdf3
+ .text.__fpcmp_parts_d
+                0x1000a930       0xac c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+                0x1000a930                __fpcmp_parts_d
+ .text.__cmpdf2
+                0x1000a9dc       0x2c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+                0x1000a9dc                __cmpdf2
+ .text.__eqdf2  0x1000aa08       0x44 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+                0x1000aa08                __eqdf2
+ .text.__nedf2  0x1000aa4c        0x4 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+                0x1000aa4c                __nedf2
+ .text.__gtdf2  0x1000aa50       0x44 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+                0x1000aa50                __gtdf2
+ .text.__gedf2  0x1000aa94        0x4 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+                0x1000aa94                __gedf2
+ .text.__ltdf2  0x1000aa98        0x4 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+                0x1000aa98                __ltdf2
+ .text.__ledf2  0x1000aa9c        0x4 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+                0x1000aa9c                __ledf2
+ .text.__unorddf2
+                0x1000aaa0       0x3c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+                0x1000aaa0                __unorddf2
+ .text.__floatsidf
+                0x1000aadc       0x7c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+                0x1000aadc                __floatsidf
+ .text.__floatunsidf
+                0x1000ab58       0x6c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+                0x1000ab58                __floatunsidf
+ .text.__fixdfsi
+                0x1000abc4       0x9c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+                0x1000abc4                __fixdfsi
+ .text.__fixunsdfsi
+                0x1000ac60       0x74 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+                0x1000ac60                __fixunsdfsi
+ .text.__negdf2
+                0x1000acd4       0x28 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+                0x1000acd4                __negdf2
+ .text.__make_dp
+                0x1000acfc       0x20 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+                0x1000acfc                __make_dp
+ .text.__truncdfsf2
+                0x1000ad1c       0x48 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+                0x1000ad1c                __truncdfsf2
+ .text          0x1000ad64        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+ .text._fpadd_parts
+                0x1000ad64      0x174 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+ .text.__pack_f
+                0x1000aed8      0x100 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+                0x1000aed8                __pack_f
+ .text.__unpack_f
+                0x1000afd8       0x88 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+                0x1000afd8                __unpack_f
+ .text.__addsf3
+                0x1000b060       0x34 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+                0x1000b060                __addsf3
+ .text.__subsf3
+                0x1000b094       0x3c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+                0x1000b094                __subsf3
+ .text.__mulsf3
+                0x1000b0d0      0x14c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+                0x1000b0d0                __mulsf3
+ .text.__divsf3
+                0x1000b21c      0x108 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+                0x1000b21c                __divsf3
+ .text.__fpcmp_parts_f
+                0x1000b324       0x90 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+                0x1000b324                __fpcmp_parts_f
+ .text.__cmpsf2
+                0x1000b3b4       0x2c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+                0x1000b3b4                __cmpsf2
+ .text.__eqsf2  0x1000b3e0       0x44 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+                0x1000b3e0                __eqsf2
+ .text.__nesf2  0x1000b424        0x4 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+                0x1000b424                __nesf2
+ .text.__gtsf2  0x1000b428       0x44 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+                0x1000b428                __gtsf2
+ .text.__gesf2  0x1000b46c        0x4 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+                0x1000b46c                __gesf2
+ .text.__ltsf2  0x1000b470        0x4 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+                0x1000b470                __ltsf2
+ .text.__lesf2  0x1000b474        0x4 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+                0x1000b474                __lesf2
+ .text.__unordsf2
+                0x1000b478       0x3c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+                0x1000b478                __unordsf2
+ .text.__floatsisf
+                0x1000b4b4       0x70 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+                0x1000b4b4                __floatsisf
+ .text.__floatunsisf
+                0x1000b524       0x84 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+                0x1000b524                __floatunsisf
+ .text.__fixsfsi
+                0x1000b5a8       0x74 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+                0x1000b5a8                __fixsfsi
+ .text.__negsf2
+                0x1000b61c       0x28 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+                0x1000b61c                __negsf2
+ .text.__make_fp
+                0x1000b644       0x1c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+                0x1000b644                __make_fp
+ .text.__extendsfdf2
+                0x1000b660       0x34 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+                0x1000b660                __extendsfdf2
+ .text          0x1000b694       0x50 obj_emsk_22/gnu_arcem7d/library/clib/embarc_sbrk.o
+                0x1000b694                _sbrk
+ .text          0x1000b6e4      0x474 obj_emsk_22/gnu_arcem7d/library/clib/embarc_syscalls.o
+                0x1000b72c                _open
+                0x1000b730                _close
+                0x1000b738                _read
+                0x1000b7a4                _write
+                0x1000b85c                _lseek
+                0x1000b864                _access
+                0x1000b868                _isatty
+                0x1000b874                _unlink
+                0x1000b878                rename
+                0x1000b87c                _rmdir
+                0x1000b880                _stat
+                0x1000b884                _lstat
+                0x1000b888                _fstat
+                0x1000b8a4                _getcwd
+                0x1000b8a8                getcwd
+                0x1000b8ac                _getpid
+                0x1000b8b0                _exit
+                0x1000b8b8                _kill
+                0x1000b8c0                _getenv
+                0x1000b924                _putenv
+                0x1000b9f8                clock
+                0x1000ba2c                _time
+                0x1000ba9c                _times
+                0x1000bac0                _gettimeofday
+                0x1000bb50                __argc
+                0x1000bb54                __argv
+ .text          0x1000bb58       0xa8 obj_emsk_22/gnu_arcem7d/library/clib/embarc_target.o
+                0x1000bb58                get_build_timedate
+ .text          0x1000bc00      0x240 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/uart/dw_uart_obj.o
+                0x1000bcfc                dw_uart_all_install
+                0x1000bdec                uart_get_dev
+ .text          0x1000be40      0xb10 obj_emsk_22/gnu_arcem7d/device/ip/designware/uart/dw_uart.o
+                0x1000c028                dw_uart_open
+                0x1000c1e0                dw_uart_close
+                0x1000c304                dw_uart_control
+                0x1000c6b8                dw_uart_write
+                0x1000c730                dw_uart_read
+                0x1000c7a8                dw_uart_isr
+ .text          0x1000c950        0x4 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-errno.o)
+                0x1000c950                __errno
+ .text          0x1000c954       0xf8 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memcmp-bs-norm.o)
+                0x1000c954                memcmp
+ .text          0x1000ca4c      0x660 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mktime.o)
+                0x1000cc8c                mktime
+ .text          0x1000d0ac       0xcc c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sscanf.o)
+                0x1000d0ac                sscanf
+                0x1000d110                _sscanf_r
+ .text          0x1000d178       0xa8 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strncmp.o)
+                0x1000d178                strncmp
+ .text          0x1000d220      0xd9c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfscanf.o)
+                0x1000d220                __ssvfscanf_r
+ .text          0x1000dfbc      0x19c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzcalc_limits.o)
+                0x1000dfbc                __tzcalc_limits
+ .text          0x1000e158        0x8 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzlock.o)
+                0x1000e158                __tz_lock
+                0x1000e15c                __tz_unlock
+ .text          0x1000e160       0x1c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzset.o)
+                0x1000e160                _tzset_unlocked
+                0x1000e168                tzset
+ .text          0x1000e17c      0x3cc c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzset_r.o)
+                0x1000e17c                _tzset_unlocked_r
+                0x1000e528                _tzset_r
+ .text          0x1000e548        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzvars.o)
+ .text          0x1000e548       0x34 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-div.o)
+                0x1000e548                div
+ .text          0x1000e57c       0xbc c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-getenv_r.o)
+                0x1000e57c                _findenv_r
+                0x1000e624                _getenv_r
+ .text          0x1000e638        0x8 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-gettzinfo.o)
+                0x1000e638                __gettzinfo
+ .text          0x1000e640       0x2c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-iswspace.o)
+                0x1000e640                iswspace
+ .text          0x1000e66c       0x10 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-malloc.o)
+                0x1000e66c                malloc
+                0x1000e674                free
+ .text          0x1000e67c      0x108 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mbrtowc.o)
+                0x1000e67c                _mbrtowc_r
+                0x1000e6fc                mbrtowc
+ .text          0x1000e784        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-month_lengths.o)
+ .text          0x1000e784       0xbc c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sccl.o)
+                0x1000e784                __sccl
+ .text          0x1000e840        0xc c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sf_nan.o)
+                0x1000e840                nanf
+ .text          0x1000e84c       0xcc c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-siscanf.o)
+                0x1000e84c                siscanf
+                0x1000e8b0                _siscanf_r
+ .text          0x1000e918       0x9c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sprintf.o)
+                0x1000e918                _sprintf_r
+                0x1000e964                sprintf
+ .text          0x1000e9b4       0x7c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strcpy-bs.o)
+                0x1000e9b4                strcpy
+ .text          0x1000ea30     0x1128 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtod.o)
+                0x1000ea30                _strtod_l
+                0x1000f974                _strtod_r
+                0x1000f990                strtod_l
+                0x1000f99c                strtod
+                0x1000f9bc                strtof_l
+                0x1000fa80                strtof
+ .text.unlikely
+                0x1000fb58       0x54 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtod.o)
+ .text          0x1000fbac      0x208 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtol.o)
+                0x1000fd64                _strtol_r
+                0x1000fd80                strtol_l
+                0x1000fd90                strtol
+ .text          0x1000fdb4      0x298 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtoll.o)
+                0x1000fffc                _strtoll_r
+                0x10010018                strtoll_l
+                0x10010028                strtoll
+ .text          0x1001004c      0x220 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtoul.o)
+                0x1001021c                _strtoul_r
+                0x10010238                strtoul_l
+                0x10010248                strtoul
+ .text          0x1001026c      0x2a0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtoull.o)
+                0x100104bc                _strtoull_r
+                0x100104d8                strtoull_l
+                0x100104e8                strtoull
+ .text          0x1001050c      0xb34 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfiscanf.o)
+                0x1001050c                _sungetc_r
+                0x100105c8                __ssrefill_r
+                0x10010610                _sfread_r
+                0x100106bc                __ssvfiscanf_r
+ .text          0x10011040     0x170c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfprintf.o)
+                0x10011040                _svfprintf_r
+ .text          0x1001274c      0x1ac c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-ungetc.o)
+                0x1001274c                __submore
+                0x100127f4                _ungetc_r
+                0x100128ec                ungetc
+ .text          0x100128f8        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-environ.o)
+ .text          0x100128f8        0x8 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-envlock.o)
+                0x100128f8                __env_lock
+                0x100128fc                __env_unlock
+ .text          0x10012900      0x6d8 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-gdtoa-gethex.o)
+                0x100129bc                __gethex
+ .text          0x10012fd8      0x1f0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-gdtoa-hexnan.o)
+                0x10012fd8                __match
+                0x1001300c                __hexnan
+ .text          0x100131c8      0xcf8 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfiprintf.o)
+                0x100131c8                __ssprint_r
+                0x10013308                _svfiprintf_r
+                0x10013ec0                _e_text = .
+
+.rodata         0x10013ec0     0x16fc
+                0x10013ec0                _f_rodata = .
+                0x10013ec0                . = ALIGN (0x4)
+                0x10013ec0                __CTOR_LIST__ = .
+                0x10013ec0        0x4 LONG 0x0 (((__CTOR_END__ - __CTOR_LIST__) / 0x4) - 0x2)
+ *(SORT_BY_NAME(.ctors*))
+                0x10013ec4        0x4 LONG 0x0
+                0x10013ec8                __CTOR_END__ = .
+                0x10013ec8                . = ALIGN (0x4)
+                0x10013ec8                __init_array_start = .
+ *(SORT_BY_NAME(.init_array*))
+                0x10013ec8                __init_array_end = .
+                0x10013ec8                . = ALIGN (0x4)
+                0x10013ec8                __DTOR_LIST__ = .
+                0x10013ec8        0x4 LONG 0x0 (((__DTOR_END__ - __DTOR_LIST__) / 0x4) - 0x2)
+ *(SORT_BY_NAME(.dtors*))
+                0x10013ecc        0x4 LONG 0x0
+                0x10013ed0                __DTOR_END__ = .
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.4
+                0x10013ed0       0x3b obj_emsk_22/gnu_arcem7d/application/./emsk_gpio.o
+                                 0x3c (size before relaxing)
+ *fill*         0x10013f0b        0x1 
+ .rodata        0x10013f0c       0x20 obj_emsk_22/gnu_arcem7d/application/./emsk_gpio.o
+ .rodata.str1.4
+                0x10013f2c        0x5 obj_emsk_22/gnu_arcem7d/board/board.o
+                                  0x8 (size before relaxing)
+ *fill*         0x10013f31        0x3 
+ .rodata        0x10013f34       0x10 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/gpio/dw_gpio_obj.o
+ .rodata        0x10013f44       0x2c obj_emsk_22/gnu_arcem7d/device/ip/designware/gpio/dw_gpio.o
+ .rodata        0x10013f70       0x18 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/mux/mux.o
+ .rodata.str1.4
+                0x10013f88       0x91 obj_emsk_22/gnu_arcem7d/arc/arc_exception.o
+                                 0x94 (size before relaxing)
+ .rodata.str1.4
+                0x10014019       0x91 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-puts.o)
+                                  0x4 (size before relaxing)
+ *fill*         0x10014019        0x3 
+ .rodata.str1.4
+                0x1001401c       0x42 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-vfprintf.o)
+                                 0x44 (size before relaxing)
+ *fill*         0x1001405e        0x2 
+ .rodata        0x10014060      0x184 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-vfprintf.o)
+ .rodata.str1.4
+                0x100141e4       0x10 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-dtoa.o)
+                                 0x14 (size before relaxing)
+ .rodata        0x100141f4       0x10 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-dtoa.o)
+ .rodata        0x10014204        0x4 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-impure.o)
+                0x10014204                _global_impure_ptr
+ .rodata        0x10014208      0x124 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mprec.o)
+                0x10014214                __mprec_tinytens
+                0x1001423c                __mprec_bigtens
+                0x10014264                __mprec_tens
+ .rodata.str1.4
+                0x1001432c       0x30 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-vfiprintf.o)
+ .rodata        0x1001432c      0x184 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-vfiprintf.o)
+ .rodata.str1.4
+                0x100144b0        0xe c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-locale.o)
+                                 0x14 (size before relaxing)
+ *fill*         0x100144be        0x2 
+ .rodata        0x100144c0      0x104 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-ctype_.o)
+                0x100144c0                _ctype_
+ .rodata.__thenan_df
+                0x100145c4       0x14 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+                0x100145c4                __thenan_df
+ .rodata.__thenan_sf
+                0x100145d8       0x10 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+                0x100145d8                __thenan_sf
+ .rodata.str1.4
+                0x100145e8       0x20 obj_emsk_22/gnu_arcem7d/library/clib/embarc_syscalls.o
+ .rodata.str1.4
+                0x10014608       0x2d obj_emsk_22/gnu_arcem7d/library/clib/embarc_target.o
+                                 0x30 (size before relaxing)
+ .rodata        0x10014635       0x30 obj_emsk_22/gnu_arcem7d/library/clib/embarc_target.o
+ *fill*         0x10014665        0x3 
+ .rodata        0x10014668        0xc obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/uart/dw_uart_obj.o
+ .rodata        0x10014674       0x94 obj_emsk_22/gnu_arcem7d/device/ip/designware/uart/dw_uart.o
+                0x100146f8                dw_uart_stopbits
+                0x100146fc                dw_uart_parity
+                0x10014704                dw_uart_databits
+ .rodata        0x10014708       0x60 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mktime.o)
+ .rodata.str1.4
+                0x10014768        0x5 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfscanf.o)
+                                  0x8 (size before relaxing)
+ *fill*         0x1001476d        0x3 
+ .rodata        0x10014770      0x48c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfscanf.o)
+ .rodata.str1.4
+                0x10014bfc       0x53 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzset_r.o)
+                                 0x54 (size before relaxing)
+ .rodata.str1.4
+                0x10014c4f        0x4 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzvars.o)
+ .rodata.str1.4
+                0x10014c4f        0x4 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mbrtowc.o)
+ *fill*         0x10014c4f        0x1 
+ .rodata        0x10014c50       0x60 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-month_lengths.o)
+                0x10014c50                __month_lengths
+ .rodata.str1.4
+                0x10014cb0       0x10 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtod.o)
+ .rodata        0x10014cc0      0x1b4 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtod.o)
+ .rodata        0x10014e74      0x340 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfiscanf.o)
+ .rodata.str1.4
+                0x100151b4       0x44 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfprintf.o)
+ .rodata        0x100151b4      0x184 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfprintf.o)
+ .rodata        0x10015338      0x100 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-gdtoa-gethex.o)
+                0x10015338                __hexdig
+ .rodata.str1.4
+                0x10015438       0x30 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfiprintf.o)
+ .rodata        0x10015438      0x184 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfiprintf.o)
+                0x100155bc                _e_rodata = .
+
+.data           0x100155bc      0xb70
+                0x100155bc                _f_data = .
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x100155bc        0x0 obj_emsk_22/gnu_arcem7d/application/./emsk_gpio.o
+ .data          0x100155bc        0x8 obj_emsk_22/gnu_arcem7d/board/board.o
+                0x100155bc                s_main_args
+ .data          0x100155c4        0x0 obj_emsk_22/gnu_arcem7d/arc/startup/arc_cxx_support.o
+ .data          0x100155c4        0x0 obj_emsk_22/gnu_arcem7d/arc/startup/arc_startup.o
+ .data          0x100155c4        0x8 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/gpio/dw_gpio_obj.o
+ .data          0x100155cc        0x0 obj_emsk_22/gnu_arcem7d/device/ip/designware/gpio/dw_gpio.o
+ .data          0x100155cc        0x0 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_init.o
+ .data          0x100155cc        0x0 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_timer.o
+ .data          0x100155cc        0x0 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/mux/mux.o
+ .data          0x100155cc        0x0 obj_emsk_22/gnu_arcem7d/arc/arc_timer.o
+ .data          0x100155cc        0x0 obj_emsk_22/gnu_arcem7d/arc/arc_cache.o
+ .data          0x100155cc       0x90 obj_emsk_22/gnu_arcem7d/arc/arc_exception.o
+                0x100155cc                exc_int_handler_table
+ .data          0x1001565c        0x0 obj_emsk_22/gnu_arcem7d/arc/arc_exc_asm.o
+ .data          0x1001565c        0x0 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_gpio.o
+ .data          0x1001565c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-printf.o)
+ .data          0x1001565c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-puts.o)
+ .data          0x1001565c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strlen-bs-norm.o)
+ .data          0x1001565c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-vfprintf.o)
+ .data          0x1001565c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wsetup.o)
+ .data          0x1001565c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-dtoa.o)
+ .data          0x1001565c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fflush.o)
+ .data          0x1001565c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-findfp.o)
+ .data          0x1001565c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-freer.o)
+ .data          0x1001565c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fvwrite.o)
+ .data          0x1001565c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fwalk.o)
+ .data          0x1001565c      0x424 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-impure.o)
+ .data          0x10015a80        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-localeconv.o)
+ .data          0x10015a80        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-makebuf.o)
+ .data          0x10015a80      0x408 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mallocr.o)
+                0x10015a80                __malloc_av_
+ .data          0x10015e88        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memchr.o)
+ .data          0x10015e88        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memcpy-bs.o)
+ .data          0x10015e88        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memmove.o)
+ .data          0x10015e88        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memset-bs.o)
+ .data          0x10015e88        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mlock.o)
+ .data          0x10015e88        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mprec.o)
+ .data          0x10015e88        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-reallocr.o)
+ .data          0x10015e88        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sbrkr.o)
+ .data          0x10015e88        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-stdio.o)
+ .data          0x10015e88        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-vfiprintf.o)
+ .data          0x10015e88        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-writer.o)
+ .data          0x10015e88        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-callocr.o)
+ .data          0x10015e88        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-closer.o)
+ .data          0x10015e88        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fclose.o)
+ .data          0x10015e88        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fputwc.o)
+ .data          0x10015e88        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fstatr.o)
+ .data          0x10015e88        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-isattyr.o)
+ .data          0x10015e88      0x16c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-locale.o)
+                0x10015e88                __global_locale
+ .data          0x10015ff4        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-lseekr.o)
+ .data          0x10015ff4        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mbtowc_r.o)
+ .data          0x10015ff4        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-readr.o)
+ .data          0x10015ff4        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-reent.o)
+ .data          0x10015ff4        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strcmp.o)
+ .data          0x10015ff4        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wbuf.o)
+ .data          0x10015ff4        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wcrtomb.o)
+ .data          0x10015ff4        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wctomb_r.o)
+ .data          0x10015ff4        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-ctype_.o)
+ .data          0x10015ff4        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(_divdi3.o)
+ .data          0x10015ff4        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(_udivdi3.o)
+ .data          0x10015ff4        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(_umoddi3.o)
+ .data          0x10015ff4        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+ .data          0x10015ff4        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+ .data          0x10015ff4        0x0 obj_emsk_22/gnu_arcem7d/library/clib/embarc_sbrk.o
+ .data          0x10015ff4       0x84 obj_emsk_22/gnu_arcem7d/library/clib/embarc_syscalls.o
+                0x10015ff4                _environ
+ .data          0x10016078        0x0 obj_emsk_22/gnu_arcem7d/library/clib/embarc_target.o
+ .data          0x10016078       0x54 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/uart/dw_uart_obj.o
+                0x10016078                dw_uart_2_ctrl
+                0x10016094                dw_uart_1_ctrl
+                0x100160b0                dw_uart_0_ctrl
+ .data          0x100160cc        0x0 obj_emsk_22/gnu_arcem7d/device/ip/designware/uart/dw_uart.o
+ .data          0x100160cc        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-errno.o)
+ .data          0x100160cc        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memcmp-bs-norm.o)
+ .data          0x100160cc        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mktime.o)
+ .data          0x100160cc        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sscanf.o)
+ .data          0x100160cc        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strncmp.o)
+ .data          0x100160cc        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfscanf.o)
+ .data          0x100160cc        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzcalc_limits.o)
+ .data          0x100160cc        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzlock.o)
+ .data          0x100160cc        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzset.o)
+ .data          0x100160cc        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzset_r.o)
+ .data          0x100160cc        0x8 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzvars.o)
+                0x100160cc                _tzname
+ .data          0x100160d4        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-div.o)
+ .data          0x100160d4        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-getenv_r.o)
+ .data          0x100160d4       0x48 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-gettzinfo.o)
+ .data          0x1001611c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-iswspace.o)
+ .data          0x1001611c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-malloc.o)
+ .data          0x1001611c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mbrtowc.o)
+ .data          0x1001611c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-month_lengths.o)
+ .data          0x1001611c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sccl.o)
+ .data          0x1001611c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sf_nan.o)
+ .data          0x1001611c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-siscanf.o)
+ .data          0x1001611c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sprintf.o)
+ .data          0x1001611c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strcpy-bs.o)
+ .data          0x1001611c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtod.o)
+ .data          0x1001611c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtol.o)
+ .data          0x1001611c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtoll.o)
+ .data          0x1001611c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtoul.o)
+ .data          0x1001611c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtoull.o)
+ .data          0x1001611c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfiscanf.o)
+ .data          0x1001611c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfprintf.o)
+ .data          0x1001611c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-ungetc.o)
+ .data          0x1001611c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-environ.o)
+ .data          0x1001611c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-envlock.o)
+ .data          0x1001611c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-gdtoa-gethex.o)
+ .data          0x1001611c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-gdtoa-hexnan.o)
+ .data          0x1001611c        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfiprintf.o)
+                0x1001611c                _f_sdata = .
+                0x1001611c                __SDATA_BEGIN__ = .
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata         0x1001611c        0x4 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-impure.o)
+                0x1001611c                _impure_ptr
+ .sdata         0x10016120        0x8 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mallocr.o)
+                0x10016120                __malloc_sbrk_base
+                0x10016124                __malloc_trim_threshold
+ .sdata         0x10016128        0x4 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-environ.o)
+                0x10016128                environ
+                0x1001612c                _e_sdata = .
+                0x1001612c                _e_data = .
+
+.bss            0x10016130      0x390
+                [!provide]                PROVIDE (__sbss_start, .)
+                [!provide]                PROVIDE (___sbss_start, .)
+                0x10016130                _f_bss = .
+                0x10016130                _f_sbss = .
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0x10016130        0xc c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mallocr.o)
+                0x10016130                __malloc_max_total_mem
+                0x10016134                __malloc_max_sbrked_mem
+                0x10016138                __malloc_top_pad
+ .sbss          0x1001613c        0x4 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-locale.o)
+                0x1001613c                _PathLocale
+ .sbss          0x10016140        0x4 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-reent.o)
+                0x10016140                errno
+ .sbss          0x10016144        0x8 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzvars.o)
+                0x10016144                _timezone
+                0x10016148                _daylight
+ *(.scommon)
+                0x1001614c                _e_sbss = .
+                [!provide]                PROVIDE (__sbss_end, .)
+                [!provide]                PROVIDE (___sbss_end, .)
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x1001614c        0x8 obj_emsk_22/gnu_arcem7d/application/./emsk_gpio.o
+ .bss           0x10016154        0x0 obj_emsk_22/gnu_arcem7d/board/board.o
+ .bss           0x10016154        0x4 obj_emsk_22/gnu_arcem7d/arc/startup/arc_cxx_support.o
+                0x10016154                __dso_handle
+ .bss           0x10016158        0x0 obj_emsk_22/gnu_arcem7d/arc/startup/arc_startup.o
+ .bss           0x10016158      0x194 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/gpio/dw_gpio_obj.o
+ .bss           0x100162ec        0x0 obj_emsk_22/gnu_arcem7d/device/ip/designware/gpio/dw_gpio.o
+ .bss           0x100162ec        0x0 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_init.o
+ .bss           0x100162ec       0x14 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_timer.o
+                0x100162f4                gl_emsk_ms_cnt
+                0x100162f8                gl_emsk_sys_hz_cnt
+ .bss           0x10016300        0x4 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/mux/mux.o
+ .bss           0x10016304        0x0 obj_emsk_22/gnu_arcem7d/arc/arc_timer.o
+ .bss           0x10016304       0x10 obj_emsk_22/gnu_arcem7d/arc/arc_cache.o
+ .bss           0x10016314        0x0 obj_emsk_22/gnu_arcem7d/arc/arc_exception.o
+ .bss           0x10016314        0x0 obj_emsk_22/gnu_arcem7d/arc/arc_exc_asm.o
+ .bss           0x10016314        0xc obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_gpio.o
+ .bss           0x10016320        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-printf.o)
+ .bss           0x10016320        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-puts.o)
+ .bss           0x10016320        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strlen-bs-norm.o)
+ .bss           0x10016320        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-vfprintf.o)
+ .bss           0x10016320        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wsetup.o)
+ .bss           0x10016320        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-dtoa.o)
+ .bss           0x10016320        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fflush.o)
+ .bss           0x10016320        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-findfp.o)
+ .bss           0x10016320        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-freer.o)
+ .bss           0x10016320        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fvwrite.o)
+ .bss           0x10016320        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fwalk.o)
+ .bss           0x10016320        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-impure.o)
+ .bss           0x10016320        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-localeconv.o)
+ .bss           0x10016320        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-makebuf.o)
+ .bss           0x10016320       0x28 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mallocr.o)
+                0x10016320                __malloc_current_mallinfo
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memchr.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memcpy-bs.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memmove.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memset-bs.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mlock.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mprec.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-reallocr.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sbrkr.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-stdio.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-vfiprintf.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-writer.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-callocr.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-closer.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fclose.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fputwc.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fstatr.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-isattyr.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-locale.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-lseekr.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mbtowc_r.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-readr.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-reent.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strcmp.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wbuf.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wcrtomb.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wctomb_r.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-ctype_.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(_divdi3.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(_udivdi3.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(_umoddi3.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+ .bss           0x10016348        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+ .bss           0x10016348        0x4 obj_emsk_22/gnu_arcem7d/library/clib/embarc_sbrk.o
+ .bss           0x1001634c       0x34 obj_emsk_22/gnu_arcem7d/library/clib/embarc_syscalls.o
+                0x1001637c                stdio_uart_inited
+ .bss           0x10016380        0x0 obj_emsk_22/gnu_arcem7d/library/clib/embarc_target.o
+ .bss           0x10016380        0x4 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/uart/dw_uart_obj.o
+ .bss           0x10016384        0x0 obj_emsk_22/gnu_arcem7d/device/ip/designware/uart/dw_uart.o
+ .bss           0x10016384        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-errno.o)
+ .bss           0x10016384        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memcmp-bs-norm.o)
+ .bss           0x10016384        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mktime.o)
+ .bss           0x10016384        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sscanf.o)
+ .bss           0x10016384        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strncmp.o)
+ .bss           0x10016384        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfscanf.o)
+ .bss           0x10016384        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzcalc_limits.o)
+ .bss           0x10016384        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzlock.o)
+ .bss           0x10016384        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzset.o)
+ .bss           0x10016384       0x1c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzset_r.o)
+ .bss           0x100163a0        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzvars.o)
+ .bss           0x100163a0        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-div.o)
+ .bss           0x100163a0        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-getenv_r.o)
+ .bss           0x100163a0        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-gettzinfo.o)
+ .bss           0x100163a0        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-iswspace.o)
+ .bss           0x100163a0        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-malloc.o)
+ .bss           0x100163a0        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mbrtowc.o)
+ .bss           0x100163a0        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-month_lengths.o)
+ .bss           0x100163a0        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sccl.o)
+ .bss           0x100163a0        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sf_nan.o)
+ .bss           0x100163a0        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-siscanf.o)
+ .bss           0x100163a0        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sprintf.o)
+ .bss           0x100163a0        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strcpy-bs.o)
+ .bss           0x100163a0        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtod.o)
+ .bss           0x100163a0        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtol.o)
+ .bss           0x100163a0        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtoll.o)
+ .bss           0x100163a0        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtoul.o)
+ .bss           0x100163a0        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtoull.o)
+ .bss           0x100163a0        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfiscanf.o)
+ .bss           0x100163a0        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfprintf.o)
+ .bss           0x100163a0        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-ungetc.o)
+ .bss           0x100163a0        0x4 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-environ.o)
+ .bss           0x100163a4        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-envlock.o)
+ .bss           0x100163a4        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-gdtoa-gethex.o)
+ .bss           0x100163a4        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-gdtoa-hexnan.o)
+ .bss           0x100163a4        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfiprintf.o)
+ *(COMMON)
+ COMMON         0x100163a4        0x4 obj_emsk_22/gnu_arcem7d/arc/arc_exception.o
+                0x100163a4                exc_nest_count
+ COMMON         0x100163a8        0x4 obj_emsk_22/gnu_arcem7d/library/clib/embarc_syscalls.o
+                0x100163a8                stdio_uart_obj
+ COMMON         0x100163ac      0x114 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/uart/dw_uart_obj.o
+                0x100163ac                dw_uart_0
+                0x10016408                dw_uart_2
+                0x10016464                dw_uart_1
+                0x100164c0                _e_bss = .
+
+.stack          0x100164c0     0x2000
+                0x100164c0                . = ALIGN (0x4)
+                0x100164c0                _f_stack = .
+                0x100184c0                . = (. + 0x2000)
+ *fill*         0x100164c0     0x2000 
+                0x100184c0                _e_stack = .
+
+.heap           0x100184c0     0x2000
+                0x100184c0                . = ALIGN (0x4)
+                0x100184c0                __start_heap = .
+                0x100184c0                _f_heap = .
+                0x1001a4c0                . = (. + 0x2000)
+ *fill*         0x100184c0     0x2000 
+                0x1001a4c0                _e_heap = .
+                0x1001a4c0                __end_heap = .
+                0x10000800                _load_addr_text = LOADADDR (.text)
+                0x10013ec0                _load_addr_rodata = LOADADDR (.rodata)
+                0x100155bc                _load_addr_data = LOADADDR (.data)
+LOAD obj_emsk_22/gnu_arcem7d/application/./emsk_gpio.o
+LOAD obj_emsk_22/gnu_arcem7d/board/board.o
+LOAD obj_emsk_22/gnu_arcem7d/arc/startup/arc_cxx_support.o
+LOAD obj_emsk_22/gnu_arcem7d/arc/startup/arc_startup.o
+START GROUP
+LOAD obj_emsk_22/gnu_arcem7d/libembarc.a
+LOAD c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libm.a
+LOAD c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a
+LOAD c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a
+END GROUP
+START GROUP
+LOAD c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a
+LOAD c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a
+LOAD c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libnosys.a
+END GROUP
+OUTPUT(obj_emsk_22/gnu_arcem7d/blinky_gnu_arcem7d.elf elf32-littlearc)
+
+.debug_info     0x00000000     0xd6a3
+ .debug_info    0x00000000     0x1228 obj_emsk_22/gnu_arcem7d/application/./emsk_gpio.o
+ .debug_info    0x00001228      0xc6a obj_emsk_22/gnu_arcem7d/board/board.o
+ .debug_info    0x00001e92      0x1ce obj_emsk_22/gnu_arcem7d/arc/startup/arc_cxx_support.o
+ .debug_info    0x00002060       0x26 obj_emsk_22/gnu_arcem7d/arc/startup/arc_startup.o
+ .debug_info    0x00002086     0x103c obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/gpio/dw_gpio_obj.o
+ .debug_info    0x000030c2     0x13c9 obj_emsk_22/gnu_arcem7d/device/ip/designware/gpio/dw_gpio.o
+ .debug_info    0x0000448b      0x300 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_init.o
+ .debug_info    0x0000478b      0x5ed obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_timer.o
+ .debug_info    0x00004d78      0x5f1 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/mux/mux.o
+ .debug_info    0x00005369      0x367 obj_emsk_22/gnu_arcem7d/arc/arc_timer.o
+ .debug_info    0x000056d0      0x7c3 obj_emsk_22/gnu_arcem7d/arc/arc_cache.o
+ .debug_info    0x00005e93     0x155e obj_emsk_22/gnu_arcem7d/arc/arc_exception.o
+ .debug_info    0x000073f1       0x26 obj_emsk_22/gnu_arcem7d/arc/arc_exc_asm.o
+ .debug_info    0x00007417      0x841 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_gpio.o
+ .debug_info    0x00007c58      0x989 obj_emsk_22/gnu_arcem7d/library/clib/embarc_sbrk.o
+ .debug_info    0x000085e1     0x192e obj_emsk_22/gnu_arcem7d/library/clib/embarc_syscalls.o
+ .debug_info    0x00009f0f      0xb10 obj_emsk_22/gnu_arcem7d/library/clib/embarc_target.o
+ .debug_info    0x0000aa1f      0xd07 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/uart/dw_uart_obj.o
+ .debug_info    0x0000b726     0x1f7d obj_emsk_22/gnu_arcem7d/device/ip/designware/uart/dw_uart.o
+
+.debug_abbrev   0x00000000     0x31ca
+ .debug_abbrev  0x00000000      0x37e obj_emsk_22/gnu_arcem7d/application/./emsk_gpio.o
+ .debug_abbrev  0x0000037e      0x2ef obj_emsk_22/gnu_arcem7d/board/board.o
+ .debug_abbrev  0x0000066d      0x14d obj_emsk_22/gnu_arcem7d/arc/startup/arc_cxx_support.o
+ .debug_abbrev  0x000007ba       0x14 obj_emsk_22/gnu_arcem7d/arc/startup/arc_startup.o
+ .debug_abbrev  0x000007ce      0x2ff obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/gpio/dw_gpio_obj.o
+ .debug_abbrev  0x00000acd      0x3bd obj_emsk_22/gnu_arcem7d/device/ip/designware/gpio/dw_gpio.o
+ .debug_abbrev  0x00000e8a      0x174 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_init.o
+ .debug_abbrev  0x00000ffe      0x2f8 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_timer.o
+ .debug_abbrev  0x000012f6      0x2ae obj_emsk_22/gnu_arcem7d/board/emsk/drivers/mux/mux.o
+ .debug_abbrev  0x000015a4      0x186 obj_emsk_22/gnu_arcem7d/arc/arc_timer.o
+ .debug_abbrev  0x0000172a      0x272 obj_emsk_22/gnu_arcem7d/arc/arc_cache.o
+ .debug_abbrev  0x0000199c      0x4b0 obj_emsk_22/gnu_arcem7d/arc/arc_exception.o
+ .debug_abbrev  0x00001e4c       0x14 obj_emsk_22/gnu_arcem7d/arc/arc_exc_asm.o
+ .debug_abbrev  0x00001e60      0x280 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_gpio.o
+ .debug_abbrev  0x000020e0      0x1f9 obj_emsk_22/gnu_arcem7d/library/clib/embarc_sbrk.o
+ .debug_abbrev  0x000022d9      0x53b obj_emsk_22/gnu_arcem7d/library/clib/embarc_syscalls.o
+ .debug_abbrev  0x00002814      0x23b obj_emsk_22/gnu_arcem7d/library/clib/embarc_target.o
+ .debug_abbrev  0x00002a4f      0x2b8 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/uart/dw_uart_obj.o
+ .debug_abbrev  0x00002d07      0x4c3 obj_emsk_22/gnu_arcem7d/device/ip/designware/uart/dw_uart.o
+
+.debug_loc      0x00000000     0x581e
+ .debug_loc     0x00000000      0x3a3 obj_emsk_22/gnu_arcem7d/application/./emsk_gpio.o
+ .debug_loc     0x000003a3       0x3a obj_emsk_22/gnu_arcem7d/board/board.o
+ .debug_loc     0x000003dd       0x91 obj_emsk_22/gnu_arcem7d/arc/startup/arc_cxx_support.o
+ .debug_loc     0x0000046e      0x5d9 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/gpio/dw_gpio_obj.o
+ .debug_loc     0x00000a47     0x175a obj_emsk_22/gnu_arcem7d/device/ip/designware/gpio/dw_gpio.o
+ .debug_loc     0x000021a1      0x115 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_timer.o
+ .debug_loc     0x000022b6      0x151 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/mux/mux.o
+ .debug_loc     0x00002407      0x336 obj_emsk_22/gnu_arcem7d/arc/arc_timer.o
+ .debug_loc     0x0000273d      0x4e7 obj_emsk_22/gnu_arcem7d/arc/arc_cache.o
+ .debug_loc     0x00002c24      0x605 obj_emsk_22/gnu_arcem7d/arc/arc_exception.o
+ .debug_loc     0x00003229      0x1ae obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_gpio.o
+ .debug_loc     0x000033d7       0x34 obj_emsk_22/gnu_arcem7d/library/clib/embarc_sbrk.o
+ .debug_loc     0x0000340b      0x6a9 obj_emsk_22/gnu_arcem7d/library/clib/embarc_syscalls.o
+ .debug_loc     0x00003ab4       0xa6 obj_emsk_22/gnu_arcem7d/library/clib/embarc_target.o
+ .debug_loc     0x00003b5a      0x465 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/uart/dw_uart_obj.o
+ .debug_loc     0x00003fbf     0x185f obj_emsk_22/gnu_arcem7d/device/ip/designware/uart/dw_uart.o
+
+.debug_aranges  0x00000000      0x268
+ .debug_aranges
+                0x00000000       0x28 obj_emsk_22/gnu_arcem7d/application/./emsk_gpio.o
+ .debug_aranges
+                0x00000028       0x20 obj_emsk_22/gnu_arcem7d/board/board.o
+ .debug_aranges
+                0x00000048       0x20 obj_emsk_22/gnu_arcem7d/arc/startup/arc_cxx_support.o
+ .debug_aranges
+                0x00000068       0x20 obj_emsk_22/gnu_arcem7d/arc/startup/arc_startup.o
+ .debug_aranges
+                0x00000088       0x20 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/gpio/dw_gpio_obj.o
+ .debug_aranges
+                0x000000a8       0x20 obj_emsk_22/gnu_arcem7d/device/ip/designware/gpio/dw_gpio.o
+ .debug_aranges
+                0x000000c8       0x20 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_init.o
+ .debug_aranges
+                0x000000e8       0x20 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_timer.o
+ .debug_aranges
+                0x00000108       0x20 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/mux/mux.o
+ .debug_aranges
+                0x00000128       0x20 obj_emsk_22/gnu_arcem7d/arc/arc_timer.o
+ .debug_aranges
+                0x00000148       0x20 obj_emsk_22/gnu_arcem7d/arc/arc_cache.o
+ .debug_aranges
+                0x00000168       0x20 obj_emsk_22/gnu_arcem7d/arc/arc_exception.o
+ .debug_aranges
+                0x00000188       0x20 obj_emsk_22/gnu_arcem7d/arc/arc_exc_asm.o
+ .debug_aranges
+                0x000001a8       0x20 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_gpio.o
+ .debug_aranges
+                0x000001c8       0x20 obj_emsk_22/gnu_arcem7d/library/clib/embarc_sbrk.o
+ .debug_aranges
+                0x000001e8       0x20 obj_emsk_22/gnu_arcem7d/library/clib/embarc_syscalls.o
+ .debug_aranges
+                0x00000208       0x20 obj_emsk_22/gnu_arcem7d/library/clib/embarc_target.o
+ .debug_aranges
+                0x00000228       0x20 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/uart/dw_uart_obj.o
+ .debug_aranges
+                0x00000248       0x20 obj_emsk_22/gnu_arcem7d/device/ip/designware/uart/dw_uart.o
+
+.debug_ranges   0x00000000      0x5e8
+ .debug_ranges  0x00000000       0x18 obj_emsk_22/gnu_arcem7d/application/./emsk_gpio.o
+ .debug_ranges  0x00000018       0x18 obj_emsk_22/gnu_arcem7d/arc/startup/arc_cxx_support.o
+ .debug_ranges  0x00000030       0x88 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/gpio/dw_gpio_obj.o
+ .debug_ranges  0x000000b8       0xf0 obj_emsk_22/gnu_arcem7d/device/ip/designware/gpio/dw_gpio.o
+ .debug_ranges  0x000001a8       0x30 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_timer.o
+ .debug_ranges  0x000001d8       0x30 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/mux/mux.o
+ .debug_ranges  0x00000208       0x18 obj_emsk_22/gnu_arcem7d/arc/arc_timer.o
+ .debug_ranges  0x00000220       0x90 obj_emsk_22/gnu_arcem7d/arc/arc_cache.o
+ .debug_ranges  0x000002b0       0x18 obj_emsk_22/gnu_arcem7d/arc/arc_exception.o
+ .debug_ranges  0x000002c8       0x18 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_gpio.o
+ .debug_ranges  0x000002e0       0x58 obj_emsk_22/gnu_arcem7d/library/clib/embarc_syscalls.o
+ .debug_ranges  0x00000338       0x68 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/uart/dw_uart_obj.o
+ .debug_ranges  0x000003a0      0x248 obj_emsk_22/gnu_arcem7d/device/ip/designware/uart/dw_uart.o
+
+.debug_line     0x00000000     0x2918
+ .debug_line    0x00000000      0x256 obj_emsk_22/gnu_arcem7d/application/./emsk_gpio.o
+ .debug_line    0x00000256      0x1fb obj_emsk_22/gnu_arcem7d/board/board.o
+ .debug_line    0x00000451       0x76 obj_emsk_22/gnu_arcem7d/arc/startup/arc_cxx_support.o
+ .debug_line    0x000004c7       0xb7 obj_emsk_22/gnu_arcem7d/arc/startup/arc_startup.o
+ .debug_line    0x0000057e      0x277 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/gpio/dw_gpio_obj.o
+ .debug_line    0x000007f5      0x3cb obj_emsk_22/gnu_arcem7d/device/ip/designware/gpio/dw_gpio.o
+ .debug_line    0x00000bc0      0x17a obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_init.o
+ .debug_line    0x00000d3a      0x1c5 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_timer.o
+ .debug_line    0x00000eff      0x1ed obj_emsk_22/gnu_arcem7d/board/emsk/drivers/mux/mux.o
+ .debug_line    0x000010ec      0x16a obj_emsk_22/gnu_arcem7d/arc/arc_timer.o
+ .debug_line    0x00001256      0x2df obj_emsk_22/gnu_arcem7d/arc/arc_cache.o
+ .debug_line    0x00001535      0x35f obj_emsk_22/gnu_arcem7d/arc/arc_exception.o
+ .debug_line    0x00001894       0x88 obj_emsk_22/gnu_arcem7d/arc/arc_exc_asm.o
+ .debug_line    0x0000191c      0x1a2 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_gpio.o
+ .debug_line    0x00001abe      0x12c obj_emsk_22/gnu_arcem7d/library/clib/embarc_sbrk.o
+ .debug_line    0x00001bea      0x3b2 obj_emsk_22/gnu_arcem7d/library/clib/embarc_syscalls.o
+ .debug_line    0x00001f9c      0x19e obj_emsk_22/gnu_arcem7d/library/clib/embarc_target.o
+ .debug_line    0x0000213a      0x25e obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/uart/dw_uart_obj.o
+ .debug_line    0x00002398      0x580 obj_emsk_22/gnu_arcem7d/device/ip/designware/uart/dw_uart.o
+
+.debug_str      0x00000000     0x271f
+ .debug_str     0x00000000      0x9b0 obj_emsk_22/gnu_arcem7d/application/./emsk_gpio.o
+                                0xae2 (size before relaxing)
+ .debug_str     0x000009b0       0xc0 obj_emsk_22/gnu_arcem7d/board/board.o
+                                0x890 (size before relaxing)
+ .debug_str     0x00000a70      0x12f obj_emsk_22/gnu_arcem7d/arc/startup/arc_cxx_support.o
+                                0x25e (size before relaxing)
+ .debug_str     0x00000b9f       0x1d obj_emsk_22/gnu_arcem7d/arc/startup/arc_startup.o
+                                 0x62 (size before relaxing)
+ .debug_str     0x00000bbc      0x426 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/gpio/dw_gpio_obj.o
+                                0x93b (size before relaxing)
+ .debug_str     0x00000fe2      0x38e obj_emsk_22/gnu_arcem7d/device/ip/designware/gpio/dw_gpio.o
+                                0x926 (size before relaxing)
+ .debug_str     0x00001370       0x52 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_init.o
+                                0x457 (size before relaxing)
+ .debug_str     0x000013c2      0x12e obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_timer.o
+                                0x56f (size before relaxing)
+ .debug_str     0x000014f0      0x1cc obj_emsk_22/gnu_arcem7d/board/emsk/drivers/mux/mux.o
+                                0x5e5 (size before relaxing)
+ .debug_str     0x000016bc       0x24 obj_emsk_22/gnu_arcem7d/arc/arc_timer.o
+                                0x247 (size before relaxing)
+ .debug_str     0x000016e0      0x21f obj_emsk_22/gnu_arcem7d/arc/arc_cache.o
+                                0x474 (size before relaxing)
+ .debug_str     0x000018ff      0x2b4 obj_emsk_22/gnu_arcem7d/arc/arc_exception.o
+                                0x9f1 (size before relaxing)
+ .debug_str     0x00001bb3        0xe obj_emsk_22/gnu_arcem7d/arc/arc_exc_asm.o
+                                 0x62 (size before relaxing)
+ .debug_str     0x00001bc1       0x90 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_gpio.o
+                                0x708 (size before relaxing)
+ .debug_str     0x00001c51       0x86 obj_emsk_22/gnu_arcem7d/library/clib/embarc_sbrk.o
+                                0x637 (size before relaxing)
+ .debug_str     0x00001cd7      0x3bd obj_emsk_22/gnu_arcem7d/library/clib/embarc_syscalls.o
+                                0xd6d (size before relaxing)
+ .debug_str     0x00002094       0x52 obj_emsk_22/gnu_arcem7d/library/clib/embarc_target.o
+                                0x691 (size before relaxing)
+ .debug_str     0x000020e6      0x2f5 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/uart/dw_uart_obj.o
+                                0x854 (size before relaxing)
+ .debug_str     0x000023db      0x344 obj_emsk_22/gnu_arcem7d/device/ip/designware/uart/dw_uart.o
+                                0xcf4 (size before relaxing)
+
+.comment        0x00000000       0x46
+ .comment       0x00000000       0x46 obj_emsk_22/gnu_arcem7d/application/./emsk_gpio.o
+                                 0x47 (size before relaxing)
+ .comment       0x00000046       0x47 obj_emsk_22/gnu_arcem7d/board/board.o
+ .comment       0x00000046       0x47 obj_emsk_22/gnu_arcem7d/arc/startup/arc_cxx_support.o
+ .comment       0x00000046       0x47 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/gpio/dw_gpio_obj.o
+ .comment       0x00000046       0x47 obj_emsk_22/gnu_arcem7d/device/ip/designware/gpio/dw_gpio.o
+ .comment       0x00000046       0x47 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_init.o
+ .comment       0x00000046       0x47 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_timer.o
+ .comment       0x00000046       0x47 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/mux/mux.o
+ .comment       0x00000046       0x47 obj_emsk_22/gnu_arcem7d/arc/arc_timer.o
+ .comment       0x00000046       0x47 obj_emsk_22/gnu_arcem7d/arc/arc_cache.o
+ .comment       0x00000046       0x47 obj_emsk_22/gnu_arcem7d/arc/arc_exception.o
+ .comment       0x00000046       0x47 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_gpio.o
+ .comment       0x00000046       0x47 obj_emsk_22/gnu_arcem7d/library/clib/embarc_sbrk.o
+ .comment       0x00000046       0x47 obj_emsk_22/gnu_arcem7d/library/clib/embarc_syscalls.o
+ .comment       0x00000046       0x47 obj_emsk_22/gnu_arcem7d/library/clib/embarc_target.o
+ .comment       0x00000046       0x47 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/uart/dw_uart_obj.o
+ .comment       0x00000046       0x47 obj_emsk_22/gnu_arcem7d/device/ip/designware/uart/dw_uart.o
+
+.note.GNU-stack
+                0x00000000        0x0
+ .note.GNU-stack
+                0x00000000        0x0 obj_emsk_22/gnu_arcem7d/application/./emsk_gpio.o
+ .note.GNU-stack
+                0x00000000        0x0 obj_emsk_22/gnu_arcem7d/board/board.o
+ .note.GNU-stack
+                0x00000000        0x0 obj_emsk_22/gnu_arcem7d/arc/startup/arc_cxx_support.o
+ .note.GNU-stack
+                0x00000000        0x0 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/gpio/dw_gpio_obj.o
+ .note.GNU-stack
+                0x00000000        0x0 obj_emsk_22/gnu_arcem7d/device/ip/designware/gpio/dw_gpio.o
+ .note.GNU-stack
+                0x00000000        0x0 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_init.o
+ .note.GNU-stack
+                0x00000000        0x0 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_timer.o
+ .note.GNU-stack
+                0x00000000        0x0 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/mux/mux.o
+ .note.GNU-stack
+                0x00000000        0x0 obj_emsk_22/gnu_arcem7d/arc/arc_timer.o
+ .note.GNU-stack
+                0x00000000        0x0 obj_emsk_22/gnu_arcem7d/arc/arc_cache.o
+ .note.GNU-stack
+                0x00000000        0x0 obj_emsk_22/gnu_arcem7d/arc/arc_exception.o
+ .note.GNU-stack
+                0x00000000        0x0 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_gpio.o
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-printf.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-puts.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-vfprintf.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wsetup.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-dtoa.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fflush.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-findfp.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-freer.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fvwrite.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fwalk.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-impure.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-localeconv.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-makebuf.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mallocr.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memchr.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memmove.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mlock.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mprec.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-reallocr.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sbrkr.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-stdio.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-vfiprintf.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-writer.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-callocr.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-closer.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fclose.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fputwc.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fstatr.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-isattyr.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-locale.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-lseekr.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mbtowc_r.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-readr.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-reent.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wbuf.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wcrtomb.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wctomb_r.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-ctype_.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(_divdi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(_udivdi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(_umoddi3.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+ .note.GNU-stack
+                0x00000000        0x0 obj_emsk_22/gnu_arcem7d/library/clib/embarc_sbrk.o
+ .note.GNU-stack
+                0x00000000        0x0 obj_emsk_22/gnu_arcem7d/library/clib/embarc_syscalls.o
+ .note.GNU-stack
+                0x00000000        0x0 obj_emsk_22/gnu_arcem7d/library/clib/embarc_target.o
+ .note.GNU-stack
+                0x00000000        0x0 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/uart/dw_uart_obj.o
+ .note.GNU-stack
+                0x00000000        0x0 obj_emsk_22/gnu_arcem7d/device/ip/designware/uart/dw_uart.o
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-errno.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mktime.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sscanf.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strncmp.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfscanf.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzcalc_limits.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzlock.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzset.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzset_r.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzvars.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-div.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-getenv_r.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-gettzinfo.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-iswspace.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-malloc.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mbrtowc.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-month_lengths.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sccl.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sf_nan.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-siscanf.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sprintf.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtod.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtol.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtoll.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtoul.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtoull.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfiscanf.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfprintf.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-ungetc.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-environ.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-envlock.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-gdtoa-gethex.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-gdtoa-hexnan.o)
+ .note.GNU-stack
+                0x00000000        0x0 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfiprintf.o)
+
+.ARC.attributes
+                0x00000000       0x3a
+ .ARC.attributes
+                0x00000000       0x26 obj_emsk_22/gnu_arcem7d/application/./emsk_gpio.o
+ .ARC.attributes
+                0x00000026       0x23 obj_emsk_22/gnu_arcem7d/board/board.o
+ .ARC.attributes
+                0x00000049       0x26 obj_emsk_22/gnu_arcem7d/arc/startup/arc_cxx_support.o
+ .ARC.attributes
+                0x0000006f       0x1f obj_emsk_22/gnu_arcem7d/arc/startup/arc_startup.o
+ .ARC.attributes
+                0x0000008e       0x26 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/gpio/dw_gpio_obj.o
+ .ARC.attributes
+                0x000000b4       0x28 obj_emsk_22/gnu_arcem7d/device/ip/designware/gpio/dw_gpio.o
+ .ARC.attributes
+                0x000000dc       0x23 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_init.o
+ .ARC.attributes
+                0x000000ff       0x2d obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_timer.o
+ .ARC.attributes
+                0x0000012c       0x26 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/mux/mux.o
+ .ARC.attributes
+                0x00000152       0x26 obj_emsk_22/gnu_arcem7d/arc/arc_timer.o
+ .ARC.attributes
+                0x00000178       0x26 obj_emsk_22/gnu_arcem7d/arc/arc_cache.o
+ .ARC.attributes
+                0x0000019e       0x26 obj_emsk_22/gnu_arcem7d/arc/arc_exception.o
+ .ARC.attributes
+                0x000001c4       0x22 obj_emsk_22/gnu_arcem7d/arc/arc_exc_asm.o
+ .ARC.attributes
+                0x000001e6       0x23 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_gpio.o
+ .ARC.attributes
+                0x00000209       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-printf.o)
+ .ARC.attributes
+                0x0000022e       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-puts.o)
+ .ARC.attributes
+                0x00000253       0x2a c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strlen-bs-norm.o)
+ .ARC.attributes
+                0x0000027d       0x32 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-vfprintf.o)
+ .ARC.attributes
+                0x000002af       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wsetup.o)
+ .ARC.attributes
+                0x000002d4       0x32 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-dtoa.o)
+ .ARC.attributes
+                0x00000306       0x28 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fflush.o)
+ .ARC.attributes
+                0x0000032e       0x27 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-findfp.o)
+ .ARC.attributes
+                0x00000355       0x28 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-freer.o)
+ .ARC.attributes
+                0x0000037d       0x2f c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fvwrite.o)
+ .ARC.attributes
+                0x000003ac       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fwalk.o)
+ .ARC.attributes
+                0x000003d1       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-impure.o)
+ .ARC.attributes
+                0x000003f6       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-localeconv.o)
+ .ARC.attributes
+                0x0000041b       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-makebuf.o)
+ .ARC.attributes
+                0x00000440       0x28 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mallocr.o)
+ .ARC.attributes
+                0x00000468       0x28 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memchr.o)
+ .ARC.attributes
+                0x00000490       0x22 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memcpy-bs.o)
+ .ARC.attributes
+                0x000004b2       0x28 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memmove.o)
+ .ARC.attributes
+                0x000004da       0x22 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memset-bs.o)
+ .ARC.attributes
+                0x000004fc       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mlock.o)
+ .ARC.attributes
+                0x00000521       0x32 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mprec.o)
+ .ARC.attributes
+                0x00000553       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-reallocr.o)
+ .ARC.attributes
+                0x00000578       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sbrkr.o)
+ .ARC.attributes
+                0x0000059d       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-stdio.o)
+ .ARC.attributes
+                0x000005c2       0x2a c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-vfiprintf.o)
+ .ARC.attributes
+                0x000005ec       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-writer.o)
+ .ARC.attributes
+                0x00000611       0x27 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-callocr.o)
+ .ARC.attributes
+                0x00000638       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-closer.o)
+ .ARC.attributes
+                0x0000065d       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fclose.o)
+ .ARC.attributes
+                0x00000682       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fputwc.o)
+ .ARC.attributes
+                0x000006a7       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fstatr.o)
+ .ARC.attributes
+                0x000006cc       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-isattyr.o)
+ .ARC.attributes
+                0x000006f1       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-locale.o)
+ .ARC.attributes
+                0x00000716       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-lseekr.o)
+ .ARC.attributes
+                0x0000073b       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mbtowc_r.o)
+ .ARC.attributes
+                0x00000760       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-readr.o)
+ .ARC.attributes
+                0x00000785       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-reent.o)
+ .ARC.attributes
+                0x000007aa       0x1f c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strcmp.o)
+ .ARC.attributes
+                0x000007c9       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wbuf.o)
+ .ARC.attributes
+                0x000007ee       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wcrtomb.o)
+ .ARC.attributes
+                0x00000813       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wctomb_r.o)
+ .ARC.attributes
+                0x00000838       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-ctype_.o)
+ .ARC.attributes
+                0x0000085d       0x3a c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(_divdi3.o)
+ .ARC.attributes
+                0x00000897       0x3a c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(_udivdi3.o)
+ .ARC.attributes
+                0x000008d1       0x3a c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(_umoddi3.o)
+ .ARC.attributes
+                0x0000090b       0x32 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+ .ARC.attributes
+                0x0000093d       0x32 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+ .ARC.attributes
+                0x0000096f       0x23 obj_emsk_22/gnu_arcem7d/library/clib/embarc_sbrk.o
+ .ARC.attributes
+                0x00000992       0x2d obj_emsk_22/gnu_arcem7d/library/clib/embarc_syscalls.o
+ .ARC.attributes
+                0x000009bf       0x23 obj_emsk_22/gnu_arcem7d/library/clib/embarc_target.o
+ .ARC.attributes
+                0x000009e2       0x23 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/uart/dw_uart_obj.o
+ .ARC.attributes
+                0x00000a05       0x2e obj_emsk_22/gnu_arcem7d/device/ip/designware/uart/dw_uart.o
+ .ARC.attributes
+                0x00000a33       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-errno.o)
+ .ARC.attributes
+                0x00000a58       0x2a c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memcmp-bs-norm.o)
+ .ARC.attributes
+                0x00000a82       0x32 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mktime.o)
+ .ARC.attributes
+                0x00000ab4       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sscanf.o)
+ .ARC.attributes
+                0x00000ad9       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strncmp.o)
+ .ARC.attributes
+                0x00000afe       0x2a c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfscanf.o)
+ .ARC.attributes
+                0x00000b28       0x32 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzcalc_limits.o)
+ .ARC.attributes
+                0x00000b5a       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzlock.o)
+ .ARC.attributes
+                0x00000b7f       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzset.o)
+ .ARC.attributes
+                0x00000ba4       0x27 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzset_r.o)
+ .ARC.attributes
+                0x00000bcb       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzvars.o)
+ .ARC.attributes
+                0x00000bf0       0x2d c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-div.o)
+ .ARC.attributes
+                0x00000c1d       0x28 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-getenv_r.o)
+ .ARC.attributes
+                0x00000c45       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-gettzinfo.o)
+ .ARC.attributes
+                0x00000c6a       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-iswspace.o)
+ .ARC.attributes
+                0x00000c8f       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-malloc.o)
+ .ARC.attributes
+                0x00000cb4       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mbrtowc.o)
+ .ARC.attributes
+                0x00000cd9       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-month_lengths.o)
+ .ARC.attributes
+                0x00000cfe       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sccl.o)
+ .ARC.attributes
+                0x00000d23       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sf_nan.o)
+ .ARC.attributes
+                0x00000d48       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-siscanf.o)
+ .ARC.attributes
+                0x00000d6d       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sprintf.o)
+ .ARC.attributes
+                0x00000d92       0x22 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strcpy-bs.o)
+ .ARC.attributes
+                0x00000db4       0x2a c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtod.o)
+ .ARC.attributes
+                0x00000dde       0x2f c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtol.o)
+ .ARC.attributes
+                0x00000e0d       0x2a c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtoll.o)
+ .ARC.attributes
+                0x00000e37       0x2f c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtoul.o)
+ .ARC.attributes
+                0x00000e66       0x2a c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtoull.o)
+ .ARC.attributes
+                0x00000e90       0x32 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfiscanf.o)
+ .ARC.attributes
+                0x00000ec2       0x32 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfprintf.o)
+ .ARC.attributes
+                0x00000ef4       0x28 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-ungetc.o)
+ .ARC.attributes
+                0x00000f1c       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-environ.o)
+ .ARC.attributes
+                0x00000f41       0x25 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-envlock.o)
+ .ARC.attributes
+                0x00000f66       0x2a c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-gdtoa-gethex.o)
+ .ARC.attributes
+                0x00000f90       0x28 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-gdtoa-hexnan.o)
+ .ARC.attributes
+                0x00000fb8       0x32 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfiprintf.o)
+
+.debug_frame    0x00000000     0x37a0
+ .debug_frame   0x00000000       0xa4 obj_emsk_22/gnu_arcem7d/application/./emsk_gpio.o
+ .debug_frame   0x000000a4       0x28 obj_emsk_22/gnu_arcem7d/board/board.o
+ .debug_frame   0x000000cc       0xac obj_emsk_22/gnu_arcem7d/arc/startup/arc_cxx_support.o
+ .debug_frame   0x00000178      0x1c4 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/gpio/dw_gpio_obj.o
+ .debug_frame   0x0000033c      0x164 obj_emsk_22/gnu_arcem7d/device/ip/designware/gpio/dw_gpio.o
+ .debug_frame   0x000004a0       0x2c obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_init.o
+ .debug_frame   0x000004cc       0xe4 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_timer.o
+ .debug_frame   0x000005b0       0xe0 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/mux/mux.o
+ .debug_frame   0x00000690       0x7c obj_emsk_22/gnu_arcem7d/arc/arc_timer.o
+ .debug_frame   0x0000070c      0x17c obj_emsk_22/gnu_arcem7d/arc/arc_cache.o
+ .debug_frame   0x00000888      0x1d4 obj_emsk_22/gnu_arcem7d/arc/arc_exception.o
+ .debug_frame   0x00000a5c      0x120 obj_emsk_22/gnu_arcem7d/board/emsk/common/emsk_gpio.o
+ .debug_frame   0x00000b7c       0x50 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-printf.o)
+ .debug_frame   0x00000bcc       0x50 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-puts.o)
+ .debug_frame   0x00000c1c       0xb4 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-vfprintf.o)
+ .debug_frame   0x00000cd0       0x3c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wsetup.o)
+ .debug_frame   0x00000d0c       0xa8 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-dtoa.o)
+ .debug_frame   0x00000db4       0x88 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fflush.o)
+ .debug_frame   0x00000e3c      0x148 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-findfp.o)
+ .debug_frame   0x00000f84       0x9c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-freer.o)
+ .debug_frame   0x00001020       0x5c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fvwrite.o)
+ .debug_frame   0x0000107c       0x84 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fwalk.o)
+ .debug_frame   0x00001100       0x40 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-localeconv.o)
+ .debug_frame   0x00001140       0xa4 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-makebuf.o)
+ .debug_frame   0x000011e4       0x4c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mallocr.o)
+ .debug_frame   0x00001230       0x20 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memchr.o)
+ .debug_frame   0x00001250       0x20 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-memmove.o)
+ .debug_frame   0x00001270       0x30 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mlock.o)
+ .debug_frame   0x000012a0      0x310 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mprec.o)
+ .debug_frame   0x000015b0       0x74 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-reallocr.o)
+ .debug_frame   0x00001624       0x3c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x00001660       0xb8 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-stdio.o)
+ .debug_frame   0x00001718      0x108 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-vfiprintf.o)
+ .debug_frame   0x00001820       0x3c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-writer.o)
+ .debug_frame   0x0000185c       0x40 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-callocr.o)
+ .debug_frame   0x0000189c       0x3c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-closer.o)
+ .debug_frame   0x000018d8       0x60 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fclose.o)
+ .debug_frame   0x00001938       0x8c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fputwc.o)
+ .debug_frame   0x000019c4       0x3c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-fstatr.o)
+ .debug_frame   0x00001a00       0x3c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-isattyr.o)
+ .debug_frame   0x00001a3c       0x74 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-locale.o)
+ .debug_frame   0x00001ab0       0x3c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-lseekr.o)
+ .debug_frame   0x00001aec       0x40 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mbtowc_r.o)
+ .debug_frame   0x00001b2c       0x3c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-readr.o)
+ .debug_frame   0x00001b68       0x74 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-reent.o)
+ .debug_frame   0x00001bdc       0x54 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wbuf.o)
+ .debug_frame   0x00001c30       0x84 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wcrtomb.o)
+ .debug_frame   0x00001cb4       0x30 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-wctomb_r.o)
+ .debug_frame   0x00001ce4       0x20 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(_divdi3.o)
+ .debug_frame   0x00001d04       0x54 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(_udivdi3.o)
+ .debug_frame   0x00001d58       0x54 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(_umoddi3.o)
+ .debug_frame   0x00001dac      0x3a8 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(dp-bit.o)
+ .debug_frame   0x00002154      0x2f4 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/em4_dmips\libgcc.a(fp-bit.o)
+ .debug_frame   0x00002448       0x2c obj_emsk_22/gnu_arcem7d/library/clib/embarc_sbrk.o
+ .debug_frame   0x00002474      0x2c0 obj_emsk_22/gnu_arcem7d/library/clib/embarc_syscalls.o
+ .debug_frame   0x00002734       0x50 obj_emsk_22/gnu_arcem7d/library/clib/embarc_target.o
+ .debug_frame   0x00002784      0x164 obj_emsk_22/gnu_arcem7d/board/emsk/drivers/ip/designware/uart/dw_uart_obj.o
+ .debug_frame   0x000028e8      0x200 obj_emsk_22/gnu_arcem7d/device/ip/designware/uart/dw_uart.o
+ .debug_frame   0x00002ae8       0x20 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-errno.o)
+ .debug_frame   0x00002b08       0x90 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mktime.o)
+ .debug_frame   0x00002b98       0x6c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sscanf.o)
+ .debug_frame   0x00002c04       0x20 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strncmp.o)
+ .debug_frame   0x00002c24       0x70 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfscanf.o)
+ .debug_frame   0x00002c94       0x3c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzcalc_limits.o)
+ .debug_frame   0x00002cd0       0x30 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzlock.o)
+ .debug_frame   0x00002d00       0x3c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzset.o)
+ .debug_frame   0x00002d3c       0x7c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-tzset_r.o)
+ .debug_frame   0x00002db8       0x20 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-div.o)
+ .debug_frame   0x00002dd8       0x6c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-getenv_r.o)
+ .debug_frame   0x00002e44       0x20 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-gettzinfo.o)
+ .debug_frame   0x00002e64       0x34 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-iswspace.o)
+ .debug_frame   0x00002e98       0x30 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-malloc.o)
+ .debug_frame   0x00002ec8       0x78 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-mbrtowc.o)
+ .debug_frame   0x00002f40       0x20 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sccl.o)
+ .debug_frame   0x00002f60       0x20 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sf_nan.o)
+ .debug_frame   0x00002f80       0x6c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-siscanf.o)
+ .debug_frame   0x00002fec       0x58 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-sprintf.o)
+ .debug_frame   0x00003044      0x158 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtod.o)
+ .debug_frame   0x0000319c       0x84 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtol.o)
+ .debug_frame   0x00003220       0x9c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtoll.o)
+ .debug_frame   0x000032bc       0x84 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtoul.o)
+ .debug_frame   0x00003340       0x98 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-strtoull.o)
+ .debug_frame   0x000033d8      0x114 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfiscanf.o)
+ .debug_frame   0x000034ec       0x70 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfprintf.o)
+ .debug_frame   0x0000355c       0x8c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-ungetc.o)
+ .debug_frame   0x000035e8       0x30 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-envlock.o)
+ .debug_frame   0x00003618       0x7c c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-gdtoa-gethex.o)
+ .debug_frame   0x00003694       0x58 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-gdtoa-hexnan.o)
+ .debug_frame   0x000036ec       0xb4 c:/arc_gnu/bin/../lib/gcc/arc-elf32/7.3.1/../../../../arc-elf32/lib/em4_dmips\libc.a(lib_a-svfiprintf.o)
