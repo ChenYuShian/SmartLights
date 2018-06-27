@@ -12,7 +12,7 @@ https://v.youku.com/v_show/id_XMzYxMDc2NTM2MA==.html?spm=a2hzp.8244740.0.0
 
 ## **System Architecture**
 
-![image](https://github.com/ChenYuShian/SmartLightYouAndMe/blob/master/doc/pic/%E7%B3%BB%E7%B5%B1%E6%9E%B6%E6%A7%8B%E5%9C%96%20.png)
+![image](https://github.com/ChenYuShian/SmartLights/blob/master/doc/%E7%B3%BB%E7%B5%B1%E6%9E%B6%E6%A7%8B%E5%9C%96.png)
 
 
 ## **Appearance**
