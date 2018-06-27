@@ -16,7 +16,7 @@ https://v.youku.com/v_show/id_XMzYxMDc2NTM2MA==.html?spm=a2hzp.8244740.0.0
 
 
 ## **Appearance**
-![image](https://github.com/ChenYuShian/SmartLightYouAndMe/blob/master/doc/pic/%E7%A1%AC%E9%AB%94%E6%9E%B6%E8%A8%AD%E5%9C%96.png)
+![image](https://github.com/ChenYuShian/SmartLights/blob/master/doc/%E7%A1%AC%E9%AB%94%E6%9E%B6%E8%A8%AD%E5%9C%96.png)
 
 
 ## **軟體介紹**
